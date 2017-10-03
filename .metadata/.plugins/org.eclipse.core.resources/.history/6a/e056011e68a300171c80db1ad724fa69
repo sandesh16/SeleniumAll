@@ -1,0 +1,28 @@
+package JavaProgramsUpdates;
+
+public class SingleInheritance1 {
+    public void show()
+    {
+    System.out.println("Hello");    
+    }
+}
+
+public class sandesh extends SingleInheritance1
+{
+public void display() 
+{
+System.out.println("bye");
+}
+
+
+	public static void main(String[] args) {
+		sandesh obj = new sandesh();
+
+		obj.show();
+		obj.display();
+		}  
+
+
+	}
+
+

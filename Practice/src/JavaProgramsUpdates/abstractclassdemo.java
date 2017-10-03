@@ -1,0 +1,19 @@
+package JavaProgramsUpdates;
+
+/* 
+abstract class abstractclassdemo {
+	abstract void show();
+}
+
+class Derived extends abstractclassdemo {
+	void fun() { System.out.println("Derived fun() called"); }
+}
+	public static void main(String[] args) {
+		abstractclassdemo b = new Derived();
+		b.fun(); 
+
+	}
+
+}
+
+*/

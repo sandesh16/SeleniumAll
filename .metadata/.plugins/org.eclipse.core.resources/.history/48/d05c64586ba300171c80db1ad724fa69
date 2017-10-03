@@ -1,0 +1,29 @@
+package JavaProgramsUpdates;
+
+class sandesh
+{
+	void show()
+	{
+		System.out.println("Hello");
+	}
+}
+
+class priya extends sandesh
+{
+	void display()
+	{
+		System.out.println("Bye");
+	}
+}
+
+public class singleinheritance {
+
+	public static void main(String[] args) {
+		priya obj =new priya();
+		
+		obj.show();
+		obj.display();
+
+	}
+
+}

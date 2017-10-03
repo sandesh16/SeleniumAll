@@ -1,0 +1,37 @@
+package JavaProgramsUpdates;
+
+
+
+ abstract class AbstractClass {
+	
+//	abstract class class1
+//	{
+		public void show()
+		{
+			System.out.println("Hello");
+		}
+		
+		public abstract void display();
+}
+	
+	class sandesh extends AbstractClass
+	{
+		public  void display() 
+		
+		{
+			System.out.println("test");
+		}
+	}
+	
+
+	public static void main(String[] args) {
+		
+		AbstractClass obj =new sandesh();
+		//obj.show();
+		obj.display();
+				
+	}
+	}
+	
+
+	

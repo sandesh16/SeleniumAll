@@ -1,0 +1,13 @@
+package JavaProgram;
+
+public class stringreverse {
+
+	public static void main(String[] args) {
+		
+		StringBuffer obj =new StringBuffer("Sandesh");
+		
+		obj.reverse();
+		System.out.println(obj);
+	}
+
+}

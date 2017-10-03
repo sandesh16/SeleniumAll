@@ -1,0 +1,11 @@
+package JavaProgram;
+
+public class InvertString {
+
+	public static void main(String[] args) {
+		StringBuffer obj=new StringBuffer("sandesh");
+		System.out.println(obj.reverse());
+
+	}
+
+}

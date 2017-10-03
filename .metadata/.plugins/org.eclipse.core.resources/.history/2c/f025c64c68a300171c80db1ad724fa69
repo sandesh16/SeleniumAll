@@ -1,0 +1,24 @@
+package JavaProgramsUpdates;
+
+class Student3{  
+int id;  
+String name;  
+
+public Student3 (int i,String s)
+{
+	id=i;
+	
+	
+}
+  
+void display(){
+	
+	System.out.println(id1+" "+name1);}  
+  
+public static void main(String args[]){  
+Student3 s1=new Student3(100, "sandesh");  
+Student3 s2=new Student3();  
+s1.display();  
+s2.display();  
+}  
+}  

@@ -1,0 +1,25 @@
+package JavaProgramsUpdates;
+
+
+
+public class Class {
+
+	public void show()
+	{
+		System.out.println("Hello");
+	}
+	
+	public void display()
+	{
+		System.out.println("bye");
+	}
+	
+	public static void main(String[] args) {
+
+		Class obj =new Class();
+		obj.show();
+		obj.display();
+				
+	}
+
+}

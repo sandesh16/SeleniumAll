@@ -1,0 +1,23 @@
+package Practice;
+
+abstract class test
+{
+	abstract void show();
+}
+
+class test1 extends test
+{
+	void show()
+	{
+		System.out.println("Hello");
+	}
+}
+
+public class abstractclass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

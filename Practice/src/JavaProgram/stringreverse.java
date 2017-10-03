@@ -1,0 +1,23 @@
+package JavaProgram;
+
+public class stringreverse {
+
+	public static void main(String[] args) {
+
+		/*StringBuffer obj = new StringBuffer("Sandesh -this is java testing");
+		obj.reverse();
+		System.out.println(obj);*/
+		
+		String str ="sandesh";
+		int i=str.length();
+		StringBuffer obj=new StringBuffer();
+		
+		for(int j=i-1;j>=0;j--)
+		
+			obj=obj.append(str.charAt(j));
+		
+		
+		System.out.println(obj);
+		}
+
+}

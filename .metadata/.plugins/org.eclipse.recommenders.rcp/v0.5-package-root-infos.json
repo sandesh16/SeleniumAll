@@ -1,0 +1,1276 @@
+[
+  {
+    "symbolicName": "net.sourceforge.htmlunit.neko-htmlunit",
+    "version": {
+      "major": 2,
+      "minor": 25,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7bcd512ace3baedd5d0abc159cfd57cfb3026c83",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\neko-htmlunit-2.25.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "client-combined-3.4.0-nodeps",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6319b3b61a91e8ccedb5c22e36d533d98b55e93a",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\client-combined-3.4.0-nodeps.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.sun.jna.platform",
+    "version": {
+      "major": 4,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "23457ad1cf75c2c16763330de5565a0e67b4bc0a",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\jna-platform-4.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "log4j",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 17,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5af35056b4d257e4b64b9e8069c0746e8b08629f",
+    "jarFileModificationDate": "2017-06-24T11:29:38+05:30",
+    "location": "E:\\AutomationAll\\poi-bin-3.17-beta1-20170701\\poi-3.17-beta1\\lib\\log4j-1.2.17.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.github.virtuald.curvesapi",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3386abf821719bc89c7685f9eaafaf4a842f0199",
+    "jarFileModificationDate": "2017-06-24T11:29:50+05:30",
+    "location": "E:\\AutomationAll\\poi-bin-3.17-beta1-20170701\\poi-3.17-beta1\\ooxml-lib\\curvesapi-1.04.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.websocket.api",
+    "version": {
+      "major": 9,
+      "minor": 4,
+      "micro": 3,
+      "qualifier": "v20170317"
+    },
+    "jarFileFingerprint": "d0f1fd89dc19e773334ad2fcfda2bb0eadf993f6",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\websocket-api-9.4.3.v20170317.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "sac-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cdb2dcb4e22b83d6b32b93095f644c3462739e82",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\sac-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f57d2c301d4aebc81c255f97f6369e3f30e3f310",
+    "jarFileModificationDate": "2017-02-14T20:21:53.110+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.google.code.gson.gson",
+    "version": {
+      "major": 2,
+      "minor": 8,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c4ba5371a29ac9b2ad6129b1d39ea38750043eff",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\gson-2.8.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.websocket.api",
+    "version": {
+      "major": 9,
+      "minor": 4,
+      "micro": 3,
+      "qualifier": "v20170317"
+    },
+    "jarFileFingerprint": "d0f1fd89dc19e773334ad2fcfda2bb0eadf993f6",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\websocket-api-9.4.3.v20170317.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "poi-ooxml-schemas-3.17-beta1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "99811dc063afea4cde813726ba6f45f724bf2c3b",
+    "jarFileModificationDate": "2017-06-24T11:37:28+05:30",
+    "location": "E:\\AutomationAll\\poi-bin-3.17-beta1-20170701\\poi-3.17-beta1\\poi-ooxml-schemas-3.17-beta1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang3",
+    "version": {
+      "major": 3,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6c6c702c89bfff3cd9e80b04d668c5e190d588c6",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\commons-lang3-3.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3f881e3b34693a96cd3d9e20d6aeabae98757359",
+    "jarFileModificationDate": "2017-02-14T20:21:53.188+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "12ef4e0ae34b7802243d2123236476efb42a49f4",
+    "jarFileModificationDate": "2017-02-14T20:21:59.721+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "29820464260229b133c39965832ec39ba1b5e363",
+    "jarFileModificationDate": "2017-02-14T20:21:53.159+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "poi-ooxml-3.17-beta1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "96f537614c5f5ec232fb8832313280dcb93c59ab",
+    "jarFileModificationDate": "2017-06-24T11:37:28+05:30",
+    "location": "E:\\AutomationAll\\poi-bin-3.17-beta1-20170701\\poi-3.17-beta1\\poi-ooxml-3.17-beta1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.websocket.common",
+    "version": {
+      "major": 9,
+      "minor": 4,
+      "micro": 3,
+      "qualifier": "v20170317"
+    },
+    "jarFileFingerprint": "e987016d0fbe3fa46a0c969d143e25a10eb16249",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\websocket-common-9.4.3.v20170317.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 10,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4b95f4897fa13f2cd904aee711aeafc0c5295cd8",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\commons-codec-1.10.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f4541459714ea68beb71ef7e2e0391bf97aa31c1",
+    "jarFileModificationDate": "2017-02-14T20:21:53.186+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.exec",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8dfb9facd0830a27b1b5f29f84593f0aeee7773b",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\commons-exec-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "poi-3.17-beta1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d2df762cc8301c257db1fd0f4fc2f37ed9fbbb78",
+    "jarFileModificationDate": "2017-06-24T11:37:28+05:30",
+    "location": "E:\\AutomationAll\\poi-bin-3.17-beta1-20170701\\poi-3.17-beta1\\poi-3.17-beta1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "phantomjsdriver-1.4.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "333f3289207a970c9a97308df9d5ac0880e12aa8",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\phantomjsdriver-1.4.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "87527deca87e38a86380e9b7b776a33be663937e",
+    "jarFileModificationDate": "2017-02-14T20:22:00.324+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\ext\\jfxrt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "sac-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cdb2dcb4e22b83d6b32b93095f644c3462739e82",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\sac-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xalan-2.7.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d55d3f02a56ec4c25695fe67e1334ff8c2ecea23",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\xalan-2.7.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.websocket.client",
+    "version": {
+      "major": 9,
+      "minor": 4,
+      "micro": 3,
+      "qualifier": "v20170317"
+    },
+    "jarFileFingerprint": "8d7a6d6ddb477bc2962936373503daf07b79f9ed",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\websocket-client-9.4.3.v20170317.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.exec",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8dfb9facd0830a27b1b5f29f84593f0aeee7773b",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\commons-exec-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.sun.jna",
+    "version": {
+      "major": 4,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1c12d070e602efd8021891cdd7fd18bc129372d4",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\jna-4.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "hamcrest-core-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42a25dc3219429f0e5d060061f71acb49bf010a0",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\hamcrest-core-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 4,
+      "micro": 6,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e3fd8ced1f52c7574af952e2e6da0df8df08eb82",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\httpcore-4.4.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.util",
+    "version": {
+      "major": 9,
+      "minor": 4,
+      "micro": 1,
+      "qualifier": "v20170120"
+    },
+    "jarFileFingerprint": "810c4e4275e399feaf6e8bc51aa72645bdc06205",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\jetty-util-9.4.1.v20170120.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.websocket.common",
+    "version": {
+      "major": 9,
+      "minor": 4,
+      "micro": 3,
+      "qualifier": "v20170317"
+    },
+    "jarFileFingerprint": "e987016d0fbe3fa46a0c969d143e25a10eb16249",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\websocket-common-9.4.3.v20170317.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "junit-4.12",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2973d150c0dc1fefe998f834810d68f278ea58ec",
+    "jarFileModificationDate": "2017-06-24T11:29:40+05:30",
+    "location": "E:\\AutomationAll\\poi-bin-3.17-beta1-20170701\\poi-3.17-beta1\\lib\\junit-4.12.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "phantomjsdriver-1.4.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "333f3289207a970c9a97308df9d5ac0880e12aa8",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\phantomjsdriver-1.4.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.logging",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4bfc12adfe4842bf07b657f0369c4cb522955686",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\commons-logging-1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "103c9a636b3fbf37bdc98581256377205d7ec2d4",
+    "jarFileModificationDate": "2017-02-14T20:21:53.057+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\ext\\access-bridge-64.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "poi-examples-3.17-beta1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bacb8b39ea86357e468c795c9715f026db8a9bec",
+    "jarFileModificationDate": "2017-06-24T11:37:28+05:30",
+    "location": "E:\\AutomationAll\\poi-bin-3.17-beta1-20170701\\poi-3.17-beta1\\poi-examples-3.17-beta1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "cglib",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42c972dee25a436b32c6027e848287ff47ed6750",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\cglib-nodep-3.2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.sourceforge.htmlunit.htmlunit",
+    "version": {
+      "major": 2,
+      "minor": 26,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "756789277013723c354dcf9a09740d418874afc0",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\htmlunit-2.26.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.servlet-api",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3cd63d075497751784b2fa84be59432f4905bf7c",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\javax.servlet-api-3.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xercesImpl-2.11.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9bb329db1cfc4e22462c9d6b43a8432f5850e92c",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\xercesImpl-2.11.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.sun.jna.platform",
+    "version": {
+      "major": 4,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "23457ad1cf75c2c16763330de5565a0e67b4bc0a",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\jna-platform-4.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 4,
+      "micro": 6,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e3fd8ced1f52c7574af952e2e6da0df8df08eb82",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\httpcore-4.4.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.util",
+    "version": {
+      "major": 9,
+      "minor": 4,
+      "micro": 1,
+      "qualifier": "v20170120"
+    },
+    "jarFileFingerprint": "810c4e4275e399feaf6e8bc51aa72645bdc06205",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\jetty-util-9.4.1.v20170120.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 5,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d1577ae15f01ef5438c5afc62162457c00a34713",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\httpclient-4.5.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 10,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4b95f4897fa13f2cd904aee711aeafc0c5295cd8",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\commons-codec-1.10.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.websocket.client",
+    "version": {
+      "major": 9,
+      "minor": 4,
+      "micro": 3,
+      "qualifier": "v20170317"
+    },
+    "jarFileFingerprint": "8d7a6d6ddb477bc2962936373503daf07b79f9ed",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\websocket-client-9.4.3.v20170317.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "adaad4e14b3ed4495977c4cfdad72aee2adc45d8",
+    "jarFileModificationDate": "2017-02-14T20:21:59.107+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "77b06a231a856ad388813ce55114e93db882b58d",
+    "jarFileModificationDate": "2017-02-14T20:21:53.585+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "net.sourceforge.cssparser.cssparser",
+    "version": {
+      "major": 0,
+      "minor": 9,
+      "micro": 22,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3200e4091f08f78bed01350dbc1e200068f7f162",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\cssparser-0.9.22.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7448b4e781002f3ee67ebf830bc3c3110f7a63c0",
+    "jarFileModificationDate": "2017-02-14T20:21:59.444+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "htmlunit-core-js-2.26",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cd4cc09378ab2eaa2757c9b1203e29af1cffe880",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\htmlunit-core-js-2.26.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.guava",
+    "version": {
+      "major": 21,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3a3d111be1be1b745edfa7d91678a12d7ed38709",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\guava-21.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 10,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4b95f4897fa13f2cd904aee711aeafc0c5295cd8",
+    "jarFileModificationDate": "2017-06-24T11:29:38+05:30",
+    "location": "E:\\AutomationAll\\poi-bin-3.17-beta1-20170701\\poi-3.17-beta1\\lib\\commons-codec-1.10.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "cglib",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42c972dee25a436b32c6027e848287ff47ed6750",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\cglib-nodep-3.2.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.yaml.snakeyaml",
+    "version": {
+      "major": 1,
+      "minor": 15,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4359bc28def5a14b9070e014a4f86f47b0761806",
+    "jarFileModificationDate": "2017-06-19T19:22:59.808+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-server-standalone-3.4.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xmlbeans-2.6.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "29e80d2dd51f9dcdef8f9ffaee0d4dc1c9bbfc87",
+    "jarFileModificationDate": "2017-06-24T11:29:52+05:30",
+    "location": "E:\\AutomationAll\\poi-bin-3.17-beta1-20170701\\poi-3.17-beta1\\ooxml-lib\\xmlbeans-2.6.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "hamcrest-core-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42a25dc3219429f0e5d060061f71acb49bf010a0",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\hamcrest-core-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpmime",
+    "version": {
+      "major": 4,
+      "minor": 5,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "889fd6d061bb63b99dd5c6aba35a555ae863de52",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\httpmime-4.5.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpmime",
+    "version": {
+      "major": 4,
+      "minor": 5,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "889fd6d061bb63b99dd5c6aba35a555ae863de52",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\httpmime-4.5.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "serializer-2.7.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "24247f3bb052ee068971393bdb83e04512bb1c3c",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\serializer-2.7.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3eb110e94339ba3700fea3d6d22a60001c0a330c",
+    "jarFileModificationDate": "2017-02-14T20:21:53.155+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\ext\\nashorn.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.seleniumhq.selenium.htmlunit-driver",
+    "version": {
+      "major": 2,
+      "minor": 26,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ead9f974e6f8b42ae01452e7dc08335ca5ac4797",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\htmlunit-driver-2.26.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "poi-scratchpad-3.17-beta1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d4ad39b023c377ec534ab25205344eb79da4996b",
+    "jarFileModificationDate": "2017-06-24T11:37:28+05:30",
+    "location": "E:\\AutomationAll\\poi-bin-3.17-beta1-20170701\\poi-3.17-beta1\\poi-scratchpad-3.17-beta1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xalan-2.7.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d55d3f02a56ec4c25695fe67e1334ff8c2ecea23",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\xalan-2.7.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.sourceforge.cssparser.cssparser",
+    "version": {
+      "major": 0,
+      "minor": 9,
+      "micro": 22,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3200e4091f08f78bed01350dbc1e200068f7f162",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\cssparser-0.9.22.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "82a0f9c5cbc2b79bdb6cfe80487691e232b26f9c",
+    "jarFileModificationDate": "2017-02-14T20:21:53.157+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "poi-excelant-3.17-beta1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bc6b157aa26618b180944d002636b7169cd56a1f",
+    "jarFileModificationDate": "2017-06-24T11:37:28+05:30",
+    "location": "E:\\AutomationAll\\poi-bin-3.17-beta1-20170701\\poi-3.17-beta1\\poi-excelant-3.17-beta1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.io",
+    "version": {
+      "major": 9,
+      "minor": 4,
+      "micro": 1,
+      "qualifier": "v20170120"
+    },
+    "jarFileFingerprint": "6d2d7c82a4b5306ec7bf2d6eb4b67460fce77240",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\jetty-io-9.4.1.v20170120.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xercesImpl-2.11.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9bb329db1cfc4e22462c9d6b43a8432f5850e92c",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\xercesImpl-2.11.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.seleniumhq.selenium.htmlunit-driver",
+    "version": {
+      "major": 2,
+      "minor": 26,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ead9f974e6f8b42ae01452e7dc08335ca5ac4797",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\htmlunit-driver-2.26.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.guava",
+    "version": {
+      "major": 21,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3a3d111be1be1b745edfa7d91678a12d7ed38709",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\guava-21.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 2,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2852e6e05fbb95076fc091f6d1780f1f8fe35e0f",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\commons-io-2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 2,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2852e6e05fbb95076fc091f6d1780f1f8fe35e0f",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\commons-io-2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.servlet-api",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3cd63d075497751784b2fa84be59432f4905bf7c",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\javax.servlet-api-3.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1d101fd847db3dbff6ed025a3bcd52c5c5cd8577",
+    "jarFileModificationDate": "2017-02-14T20:21:53.200+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f8e601f3a7aba80add61bc4a8dbcbe0e12601b98",
+    "jarFileModificationDate": "2017-02-14T20:21:53.427+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.collections4",
+    "version": {
+      "major": 4,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a4cf4688fe1c7e3a63aa636cc96d013af537768e",
+    "jarFileModificationDate": "2017-06-24T11:29:44+05:30",
+    "location": "E:\\AutomationAll\\poi-bin-3.17-beta1-20170701\\poi-3.17-beta1\\lib\\commons-collections4-4.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "serializer-2.7.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "24247f3bb052ee068971393bdb83e04512bb1c3c",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\serializer-2.7.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.sourceforge.htmlunit.htmlunit",
+    "version": {
+      "major": 2,
+      "minor": 26,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "756789277013723c354dcf9a09740d418874afc0",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\htmlunit-2.26.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.logging",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4bfc12adfe4842bf07b657f0369c4cb522955686",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\commons-logging-1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fa76830207821252d783dfb31a6af4de77fb53fa",
+    "jarFileModificationDate": "2017-02-14T20:21:58.777+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "39790b13fa4911eb708fc4cf74a00bda8d450546",
+    "jarFileModificationDate": "2017-02-14T20:21:53.073+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\ext\\cldrdata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.google.code.gson.gson",
+    "version": {
+      "major": 2,
+      "minor": 8,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c4ba5371a29ac9b2ad6129b1d39ea38750043eff",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\gson-2.8.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang3",
+    "version": {
+      "major": 3,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6c6c702c89bfff3cd9e80b04d668c5e190d588c6",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\commons-lang3-3.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "client-combined-3.4.0-nodeps",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6319b3b61a91e8ccedb5c22e36d533d98b55e93a",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\client-combined-3.4.0-nodeps.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 5,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d1577ae15f01ef5438c5afc62162457c00a34713",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\httpclient-4.5.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "junit-4.12",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2973d150c0dc1fefe998f834810d68f278ea58ec",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\junit-4.12.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "662796824d046cb5f869c9e6b714a29bf561f6ea",
+    "jarFileModificationDate": "2017-02-14T20:21:53.109+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "net.sourceforge.htmlunit.neko-htmlunit",
+    "version": {
+      "major": 2,
+      "minor": 25,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7bcd512ace3baedd5d0abc159cfd57cfb3026c83",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\neko-htmlunit-2.25.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.sun.jna",
+    "version": {
+      "major": 4,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1c12d070e602efd8021891cdd7fd18bc129372d4",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\jna-4.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xml-apis-1.4.01",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3789d9fada2d3d458c4ba2de349d48780f381ee3",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\xml-apis-1.4.01.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "junit-4.12",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2973d150c0dc1fefe998f834810d68f278ea58ec",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\junit-4.12.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "58b95b2da2ea5a049b31647cdcd59539ae1240a4",
+    "jarFileModificationDate": "2017-02-14T20:21:53.411+05:30",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.logging",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4bfc12adfe4842bf07b657f0369c4cb522955686",
+    "jarFileModificationDate": "2017-06-24T11:29:38+05:30",
+    "location": "E:\\AutomationAll\\poi-bin-3.17-beta1-20170701\\poi-3.17-beta1\\lib\\commons-logging-1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xml-apis-1.4.01",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3789d9fada2d3d458c4ba2de349d48780f381ee3",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\xml-apis-1.4.01.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "htmlunit-core-js-2.26",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cd4cc09378ab2eaa2757c9b1203e29af1cffe880",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "E:\\AutomationAll\\selenium-java-3.4.0\\lib\\htmlunit-core-js-2.26.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.io",
+    "version": {
+      "major": 9,
+      "minor": 4,
+      "micro": 1,
+      "qualifier": "v20170120"
+    },
+    "jarFileFingerprint": "6d2d7c82a4b5306ec7bf2d6eb4b67460fce77240",
+    "jarFileModificationDate": "2017-04-21T13:01:34+05:30",
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-java-3.4.0\\lib\\jetty-io-9.4.1.v20170120.jar",
+    "javaRuntime": false
+  }
+]

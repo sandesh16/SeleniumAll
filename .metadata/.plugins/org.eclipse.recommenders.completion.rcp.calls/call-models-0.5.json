@@ -1,0 +1,12 @@
+{
+  "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\rt.jar": {
+    "location": "C:\\Program Files\\Java\\jre1.8.0_65\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Program Files\\Java\\jre1.8.0_65\\lib\\rt.jar\u0027. Neither fingerprint \u0027fa76830207821252d783dfb31a6af4de77fb53fa\u0027 nor symbolic name \u0027jre\u0027 are known."
+  },
+  "F:\\Softwares\\Selenium\\19 June 2017\\selenium-server-standalone-3.4.0.jar": {
+    "location": "F:\\Softwares\\Selenium\\19 June 2017\\selenium-server-standalone-3.4.0.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027F:\\Softwares\\Selenium\\19 June 2017\\selenium-server-standalone-3.4.0.jar\u0027. Neither fingerprint \u00274359bc28def5a14b9070e014a4f86f47b0761806\u0027 nor symbolic name \u0027org.yaml.snakeyaml\u0027 are known."
+  }
+}
